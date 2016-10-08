@@ -43,12 +43,23 @@
   * [Scaling Uber](https://www.infoq.com/presentations/uber-scalability-arch)
   * [Scaling Engineering Culture at Twitter](https://www.youtube.com/watch?v=H9wTuT6yQlc)
 
+* **Distributed Computing**
+  * [Intro to Hadoop and MapReduce (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H-)
+  * [Introduction to Hadoop](https://www.youtube.com/watch?v=Pq3OyQO-l3E)
+  * [MapReduce Flow Chart](https://www.youtube.com/watch?v=6OemZEJdMp8)
+  * [Distributed Computing CS 61A UC Berkeley](https://www.youtube.com/watch?v=zGTZ-wwA9O8&list=PL6BsET-8jgYWkCySVpSbOj-MCk6xC0i4N)
+  * [MapReduce  CS 61A UC Berkeley](https://www.youtube.com/watch?v=6mABLxxtIlg&list=PL6BsET-8jgYVivQ1AS4UsPR2tyr830OHj)
+  * [Cluster Computing and MapReduce Lecture 1](https://www.youtube.com/watch?v=yjPBkvYh-ss)
+  * [Cluster Computing and MapReduce Lecture 2](https://www.youtube.com/watch?v=-vD6PUdf3Js)
+  * [Introducing Apache Hadoop: The Modern Data Operating System](https://www.youtube.com/watch?v=d2xeNpfzsYI)
+
 * **Distributed Database**
   * [Spanner: Google’s Globally-Distributed Database](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett) ([Youtube link](https://www.youtube.com/watch?v=NthK17nbpYs))
   * [Spanner - multi-version, globally- distributed, and synchronously-replicated database](https://www.youtube.com/watch?v=Q7pcMn0_tac)
   * [BigTable: A Distributed Structured Storage System](https://www.youtube.com/watch?v=2cXBNQClehA) [slides](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/bigtable-uw-2005.pdf)
 
 * **Distributed graph processing**
+  * [Giraph](https://www.youtube.com/watch?v=xyvs7NQdfZk)
   * [Apache Giraph Large Scale Graph Processing On Hadoop](https://www.youtube.com/watch?v=uXw2TKHsqvM)
   * [Processing Over a Billion Edges on Apache Giraph](https://www.youtube.com/watch?v=b5Qmz4zPj-M)
   * [GraphChi: Large-Scale Graph Computation on Just a PC](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kyrola)
@@ -74,6 +85,7 @@
   * [Messaging at Scale at Instagram](https://www.youtube.com/watch?v=E708csv4XgY)
   
 * **Object Oriented Analysis and Design**
+  * [Software Architecture & Design | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
   * [SOLID Design Patterns in C#](https://www.youtube.com/playlist?list=PL8m4NUhTQU48oiGCSgCP1FiJEcg_xJzyQ)
   * [Object Oriented Design](https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
   * [Design Patterns Video Tutorial](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
