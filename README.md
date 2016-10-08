@@ -56,7 +56,7 @@
 * **Distributed Database**
   * [Spanner: Google’s Globally-Distributed Database](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett) ([Youtube link](https://www.youtube.com/watch?v=NthK17nbpYs))
   * [Spanner - multi-version, globally- distributed, and synchronously-replicated database](https://www.youtube.com/watch?v=Q7pcMn0_tac)
-  * [BigTable: A Distributed Structured Storage System](https://www.youtube.com/watch?v=2cXBNQClehA) [slides](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/bigtable-uw-2005.pdf)
+  * [BigTable: A Distributed Structured Storage System](https://www.youtube.com/watch?v=2cXBNQClehA) ([slides](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/bigtable-uw-2005.pdf))
 
 * **Distributed graph processing**
   * [Giraph](https://www.youtube.com/watch?v=xyvs7NQdfZk)
