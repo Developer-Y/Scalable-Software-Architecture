@@ -17,6 +17,9 @@
   * [Workers, Queues, and Cache](https://www.infoq.com/presentations/workers-queues-cache)
   * [Velocity 2012: Jay Parikh, "Building for a Billion Users"](https://www.youtube.com/watch?v=oodS71YtkGU)
   * [Building Large Systems at Google](https://www.youtube.com/watch?v=_cltA0W-ehQ)
+  * [3000 images per second - Henna Kerman - @Scale 2016](https://www.youtube.com/watch?v=CEZ6oO1u1u8)
+  * [Scaling to over 1,000,000 requests per second](https://www.youtube.com/watch?v=v-KfhCGW3MA)
+  * [Jeff Dean: "Achieving Rapid Response Times in Large Online Services" Keynote - Velocity 2014](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)
 
 * **Company/Product specific tech talks**
   * [Seattle Conference on Scalability: YouTube Scalability](https://www.youtube.com/watch?v=w5WVu624fY8)
@@ -42,6 +45,11 @@
   * [Building Highly-resilient Systems at Pinterest](https://www.infoq.com/presentations/pinterest-resilient-systems)
   * [Scaling Uber](https://www.infoq.com/presentations/uber-scalability-arch)
   * [Scaling Engineering Culture at Twitter](https://www.youtube.com/watch?v=H9wTuT6yQlc)
+  * [Keynote - Systems at Facebook Scale](https://www.youtube.com/watch?v=dlixGkelP9U)
+  * [Scaling YouTube's Backend: The Vitess Trade-offs](https://www.youtube.com/watch?v=5yDO-tmIoXY)
+  * [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
+  * [Data Platform Architecture, Evolution, and Philosophy at Netflix](https://www.youtube.com/watch?v=YT-ztW5QNUQ)
+  * [Data Platform Architecture, Evolution, and Philosophy at Netflix](https://www.youtube.com/watch?v=uH8T7JMzloM)
 
 * **Distributed Computing**
   * [Intro to Hadoop and MapReduce (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H-)
@@ -53,15 +61,24 @@
   * [Cluster Computing and MapReduce Lecture 2](https://www.youtube.com/watch?v=-vD6PUdf3Js)
   * [Introducing Apache Hadoop: The Modern Data Operating System](https://www.youtube.com/watch?v=d2xeNpfzsYI)
 
-* **Distributed Database**
+* **Distributed Database/Large-Scale Storage**
   * [Spanner: Google’s Globally-Distributed Database](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett) ([Youtube link](https://www.youtube.com/watch?v=NthK17nbpYs))
   * [Spanner - multi-version, globally- distributed, and synchronously-replicated database](https://www.youtube.com/watch?v=Q7pcMn0_tac)
-  * [BigTable: A Distributed Structured Storage System](https://www.youtube.com/watch?v=2cXBNQClehA) ([slides](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/bigtable-uw-2005.pdf))
+  * [BigTable: A Distributed Structured Storage System](https://www.youtube.com/watch?v=2cXBNQClehA) ([slides](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/bigtable-uw-2005.pdf)) 
+  * [Large-Scale Low-Latency Storage for the Social Network - Data@Scale](https://www.youtube.com/watch?v=5RfFhMwRAic)
+  * [Structured Data at Box: How We're Building for Scale](https://www.youtube.com/watch?v=KHrw0Xo8tYo)
+  * [F4 - Photo Storage at Facebook](https://www.youtube.com/watch?v=34e_g-Ji_30)
+  * [The Storage Technologies Behind Facebook Messages](https://www.youtube.com/watch?v=cSNGGAKJqwk)
+  * [Cold Storage at Facebook](https://www.youtube.com/watch?v=FGZqToLuwU0)
+  * [Taking Storage for a Ride with Uber](https://www.youtube.com/watch?v=Dg76cNaeB4s)
+  * [Zen: Pinterest's Graph Storage Service - @Scale 2014 - Data](https://www.youtube.com/watch?v=yI0vHfgK6oI)
+  * [Storage Systems at a Rapidly Scaling Startup with a Small Team - Data@Scale](https://www.youtube.com/watch?v=bLyv8zKa5DU)
 
 * **Distributed graph processing**
   * [Giraph](https://www.youtube.com/watch?v=xyvs7NQdfZk)
   * [Apache Giraph Large Scale Graph Processing On Hadoop](https://www.youtube.com/watch?v=uXw2TKHsqvM)
   * [Processing Over a Billion Edges on Apache Giraph](https://www.youtube.com/watch?v=b5Qmz4zPj-M)
+  * [Using Graph Partitioning in Distributed Systems Design](https://www.youtube.com/watch?v=QHkhyY9atkE)
   * [GraphChi: Large-Scale Graph Computation on Just a PC](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kyrola)
   * [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gonzalez)
 
@@ -74,6 +91,8 @@
 * **Caching**
   * [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo)
   * [Facebook and memcached - Tech Talk](https://www.youtube.com/watch?v=UH7wkvcf0ys)
+  * [Scaling Memcache at Facebook](https://www.youtube.com/watch?v=6phA3IAcEJ8)
+  * [How Netflix and reddit scale to handle massive demand](https://www.youtube.com/watch?v=zVqA7Ogutiw)
 
 * **NoSQL**
   * [Introduction to NoSQL • Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
