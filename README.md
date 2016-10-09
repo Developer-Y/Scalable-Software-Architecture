@@ -220,6 +220,11 @@
 * **Examples**
   * [Trending at Instagram](http://instagram-engineering.tumblr.com/post/122961624217/trending-at-instagram)
   * [Search Architecture - Instagram](http://instagram-engineering.tumblr.com/post/124162066737/search-architecture)
+  * [THE UBER ENGINEERING TECH STACK, PART I](https://eng.uber.com/tech-stack-part-one/) ([PART II](https://eng.uber.com/tech-stack-part-two/))
+  * [Processing Payments At Scale](https://engineering.groupon.com/2016/misc/processing-payments-at-scale/)
+  * [Personalized Group Recommendations on Flickr](http://code.flickr.net/2016/09/30/personalized-group-recommendations-on-flickr/)
+  * [Building The LinkedIn Knowledge Graph](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph)
+  * [Personal recommendations for the Foursquare homescreen](http://engineering.foursquare.com/2015/08/06/personal-recommendations-for-the-foursquare-homescreen/)
   
   
 ## Books
