@@ -197,6 +197,7 @@
   * [Scuba: Diving into Data at Facebook](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf)
   * <a href="http://www-bcf.usc.edu/~wyattllo/papers/f4-osdi14.pdf" target="_blank">f4: Facebook’s Warm BLOB Storage System</a>
   * [Finding a needle in Haystack: Facebook’s photo storage](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)
+  * [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 
 
 * **Consistency**
