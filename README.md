@@ -20,6 +20,9 @@
   * [3000 images per second - Henna Kerman - @Scale 2016](https://www.youtube.com/watch?v=CEZ6oO1u1u8)
   * [Scaling to over 1,000,000 requests per second](https://www.youtube.com/watch?v=v-KfhCGW3MA)
   * [Jeff Dean: "Achieving Rapid Response Times in Large Online Services" Keynote - Velocity 2014](https://www.youtube.com/watch?v=1-3Ahy7Fxsc)
+  * [Getting Things Done at Scale](https://www.infoq.com/presentations/cultural-change-management)
+  * [Scale-oriented Architecture with APIs](https://www.infoq.com/presentations/queues-proxy-microservices-automation)
+  * [You Won't Believe How the Biggest Sites Build Scalable and Resilient Systems!](https://www.infoq.com/presentations/scalable-resilient-systems)
 
 * **Company/Product specific tech talks**
   * [Seattle Conference on Scalability: YouTube Scalability](https://www.youtube.com/watch?v=w5WVu624fY8)
@@ -33,8 +36,7 @@
   * [Scale at Facebook](https://www.infoq.com/presentations/Scale-at-Facebook)
   * [Flight Lightning - Scaling Twitter core infrastructure](https://www.youtube.com/watch?v=6OvrFkLSoZ0)
   * [Scaling Instagram with Mike Krieger](https://www.youtube.com/watch?v=oNA2C1vC8FQ)
-  * [GOTO 2014 • Scaling Pinterest • Marty Weiner](https://www.youtube.com/watch?v=jQNCuD_hxdQ)
-  * [Heron: Real-time Stream Data Processing at Twitter](https://www.youtube.com/watch?v=pUaFOuGgmco)
+  * [GOTO 2014 • Scaling Pinterest • Marty Weiner](https://www.youtube.com/watch?v=jQNCuD_hxdQ) ([InfoQ link](https://www.infoq.com/presentations/Pinterest))
   * [Real-Time Delivery Architecture at Twitter](https://www.youtube.com/watch?v=J5auCY4ajK8)
   * [OSCON 2014: How Instagram.com Works; Pete Hunt](https://www.youtube.com/watch?v=VkTCL6Nqm6Y)
   * [Scaling the Data Infrastructure at Instagram](https://www.youtube.com/watch?v=1sPgogJlKWM)
@@ -50,6 +52,19 @@
   * [Hacker Way: Rethinking Web App Development at Facebook](https://www.youtube.com/watch?v=nYkdrAPrdcw)
   * [Data Platform Architecture, Evolution, and Philosophy at Netflix](https://www.youtube.com/watch?v=YT-ztW5QNUQ)
   * [Data Platform Architecture, Evolution, and Philosophy at Netflix](https://www.youtube.com/watch?v=uH8T7JMzloM)
+  * [Structure, Personalization, Scale: A Deep Dive into LinkedIn Search](https://www.infoq.com/presentations/linkedin-search)
+  * [Scaling Foursquare: From Check-ins to Recommendations](https://www.infoq.com/presentations/scale-foursquare)
+  * [How Netflix Leverages Multiple Regions to Increase Availability: An Active-Active Case Study](https://www.infoq.com/presentations/netflix-availability-regions)
+  * [That's 'Billion' with a 'B': Scaling to the Next Level at WhatsApp](https://www.infoq.com/presentations/whatsapp-scalability)
+  * [How Facebook Scales Big Data Systems](https://www.infoq.com/presentations/scale-facebook-big-data)
+  * [Scaling Uber's Real-time Market Platform](https://www.infoq.com/presentations/uber-market-platform)
+  * [Software Development & Architecture @ LinkedIn](https://www.infoq.com/presentations/linkedin-architecture-practices)
+  * [Etsy Search: How We Index and Query 26 Million One-of-a-kind Items](https://www.infoq.com/presentations/etsy-search-ecosystem)
+  * [Scalability Lessons from eBay, Google, and Real-time Games](https://www.infoq.com/presentations/scalability-ebay-google-kixeye)
+  * [How SoundCloud Uses Cassandra](https://www.infoq.com/presentations/soundcloud-cassandra)
+  * [Service Architectures at Scale: Lessons from Google and eBay](https://www.infoq.com/presentations/service-arch-scale-google-ebay)
+  * [Solidifying the Cloud: How Google Backs up the Internet](https://www.infoq.com/presentations/google-cloud-backup-failure)
+  * [Real-Time Systems at Twitter](https://www.infoq.com/presentations/real-time-twitter)
 
 * **Distributed Computing**
   * [Intro to Hadoop and MapReduce (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H-)
@@ -71,16 +86,25 @@
   * [The Storage Technologies Behind Facebook Messages](https://www.youtube.com/watch?v=cSNGGAKJqwk)
   * [Cold Storage at Facebook](https://www.youtube.com/watch?v=FGZqToLuwU0)
   * [Taking Storage for a Ride with Uber](https://www.youtube.com/watch?v=Dg76cNaeB4s)
-  * [Zen: Pinterest's Graph Storage Service - @Scale 2014 - Data](https://www.youtube.com/watch?v=yI0vHfgK6oI)
+  * [Zen: Pinterest's Graph Storage Service - @Scale 2014 - Data](https://www.youtube.com/watch?v=yI0vHfgK6oI) ([With Slides](https://www.infoq.com/presentations/zen-pinterest-graph-storage-service))
   * [Storage Systems at a Rapidly Scaling Startup with a Small Team - Data@Scale](https://www.youtube.com/watch?v=bLyv8zKa5DU)
 
 * **Distributed graph processing**
   * [Giraph](https://www.youtube.com/watch?v=xyvs7NQdfZk)
   * [Apache Giraph Large Scale Graph Processing On Hadoop](https://www.youtube.com/watch?v=uXw2TKHsqvM)
   * [Processing Over a Billion Edges on Apache Giraph](https://www.youtube.com/watch?v=b5Qmz4zPj-M)
+  * [Graph Search: The Power of Connected Data](https://www.infoq.com/presentations/graph-search-connected-data)
   * [Using Graph Partitioning in Distributed Systems Design](https://www.youtube.com/watch?v=QHkhyY9atkE)
+  * [Let Me Graph That For You: Building a Graph Database Application](https://www.infoq.com/presentations/graph-db-tools)
   * [GraphChi: Large-Scale Graph Computation on Just a PC](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kyrola)
   * [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gonzalez)
+  
+* **Stream Procesing**
+  * [Heron: Real-time Stream Data Processing at Twitter](https://www.youtube.com/watch?v=pUaFOuGgmco)
+  * [Samza in LinkedIn: How LinkedIn Processes Billions of Events Everyday in Real-time](https://www.infoq.com/presentations/samza-linkedin-2014)
+  * [Mantis: Netflix's Event Stream Processing System](https://www.infoq.com/presentations/mantis)
+  * [High Throughput Stream Processing with ACID Guarantees](https://www.infoq.com/presentations/acid-stream-processing)
+  
 
 * **API Design**
   * [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
@@ -100,8 +124,10 @@
   * [NoSQL Distilled • Pramod Sadalage](https://www.youtube.com/watch?v=l68zxgZS_wc)
 
 * **Messaging**
+  * [Queue It! What Job Queues Can Do for You!](https://www.infoq.com/presentations/job-queue-gearman-beanstalkd)
   * [Joydeep Sen Sarma - Messaging architecture at Facebook](https://www.youtube.com/watch?v=5hUmdoMOrpo)
   * [Messaging at Scale at Instagram](https://www.youtube.com/watch?v=E708csv4XgY)
+  * [Building a Distributed Data Ingestion System with RabbitMQ](https://www.infoq.com/presentations/data-replication-rabbitmq)
   
 * **Object Oriented Analysis and Design**
   * [Software Architecture & Design | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
@@ -124,6 +150,8 @@
   * [Deepak Agarwal: Recommender Systems - The Art and Science of Matching Items to Users](https://www.youtube.com/watch?v=bRzOBGLCRbc)
   * [Lecture 12 -Analyzing Big Data with Twitter: Recommender Systems by Alpa Jain](https://www.youtube.com/watch?v=NSscbT7JwxY)
   * [Transactions across Datacenters](https://www.youtube.com/watch?v=srOgpXECblk)  ([Slides](http://snarfed.org/transactions_across_datacenters_io.html))
+  * [Finding the Needle in the Haystack - or - Troubleshooting Distributed Systems](https://www.infoq.com/presentations/mondemand-troubleshoot-distributed-system)
+  * [Finding the Needle in a Big Data Haystack](https://www.infoq.com/presentations/search-hadoop-data-hub)
   
 
 ## Papers
@@ -229,6 +257,7 @@
   
 ## Books
   * [Microsoft Application Architecture Guide, 2nd Edition (Online)](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
+  * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
   * Design Patterns: Elements of Reusable Object-Oriented Software
   * Head First Design Patterns
   * Patterns of Enterprise Application Architecture
