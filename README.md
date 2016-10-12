@@ -1,5 +1,7 @@
 # Scalable-Software-Architecture
 
+Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.
+
 ##Tech Talks
 
 * **General Advice on System Design and Scalability**
@@ -23,6 +25,8 @@
   * [Getting Things Done at Scale](https://www.infoq.com/presentations/cultural-change-management)
   * [Scale-oriented Architecture with APIs](https://www.infoq.com/presentations/queues-proxy-microservices-automation)
   * [You Won't Believe How the Biggest Sites Build Scalable and Resilient Systems!](https://www.infoq.com/presentations/scalable-resilient-systems)
+  * [Scalable Distributed Design](https://www.youtube.com/watch?v=E9GFA-YkzFY)
+  * [Distributed Patterns you should know by Eric Redmond](https://www.youtube.com/watch?v=otWvr8VBRx0)
 
 * **Company/Product specific tech talks**
   * [Seattle Conference on Scalability: YouTube Scalability](https://www.youtube.com/watch?v=w5WVu624fY8)
@@ -65,6 +69,8 @@
   * [Service Architectures at Scale: Lessons from Google and eBay](https://www.infoq.com/presentations/service-arch-scale-google-ebay)
   * [Solidifying the Cloud: How Google Backs up the Internet](https://www.infoq.com/presentations/google-cloud-backup-failure)
   * [Real-Time Systems at Twitter](https://www.infoq.com/presentations/real-time-twitter)
+  * [Serving user intent : Facebook style notifications using HBase and Event streams](https://www.youtube.com/watch?v=hIxXaH0CrVQ)
+  * [Netflix's Distributed Computing Strategies: Optimistic Design for the Eventual Consistency Model](https://www.youtube.com/watch?v=6R1WhWkh6pg)
 
 * **Distributed Computing**
   * [Intro to Hadoop and MapReduce (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H-)
@@ -88,6 +94,7 @@
   * [Taking Storage for a Ride with Uber](https://www.youtube.com/watch?v=Dg76cNaeB4s)
   * [Zen: Pinterest's Graph Storage Service - @Scale 2014 - Data](https://www.youtube.com/watch?v=yI0vHfgK6oI) ([With Slides](https://www.infoq.com/presentations/zen-pinterest-graph-storage-service))
   * [Storage Systems at a Rapidly Scaling Startup with a Small Team - Data@Scale](https://www.youtube.com/watch?v=bLyv8zKa5DU)
+  * [f4: Facebook's Warm BLOB Storage System](https://www.youtube.com/watch?v=imlP3lxwGgQ)
 
 * **Distributed graph processing**
   * [Giraph](https://www.youtube.com/watch?v=xyvs7NQdfZk)
@@ -99,11 +106,12 @@
   * [GraphChi: Large-Scale Graph Computation on Just a PC](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kyrola)
   * [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gonzalez)
   
-* **Stream Procesing**
+* **Stream Processing**
   * [Heron: Real-time Stream Data Processing at Twitter](https://www.youtube.com/watch?v=pUaFOuGgmco)
   * [Samza in LinkedIn: How LinkedIn Processes Billions of Events Everyday in Real-time](https://www.infoq.com/presentations/samza-linkedin-2014)
   * [Mantis: Netflix's Event Stream Processing System](https://www.infoq.com/presentations/mantis)
   * [High Throughput Stream Processing with ACID Guarantees](https://www.infoq.com/presentations/acid-stream-processing)
+  * [Martin Kleppmann — Event Sourcing and Stream Processing at Scale](https://www.youtube.com/watch?v=avi-TZI9t2I)
   
 
 * **API Design**
@@ -117,11 +125,16 @@
   * [Facebook and memcached - Tech Talk](https://www.youtube.com/watch?v=UH7wkvcf0ys)
   * [Scaling Memcache at Facebook](https://www.youtube.com/watch?v=6phA3IAcEJ8)
   * [How Netflix and reddit scale to handle massive demand](https://www.youtube.com/watch?v=zVqA7Ogutiw)
+  * [An analysis of Facebook photo caching](https://www.youtube.com/watch?v=ENaQScyvOzY)
 
 * **NoSQL**
   * [Introduction to NoSQL • Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
   * [NoSQL Distilled to an hour by Martin Fowler](https://www.youtube.com/watch?v=ASiU89Gl0F0)
   * [NoSQL Distilled • Pramod Sadalage](https://www.youtube.com/watch?v=l68zxgZS_wc)
+  * [Tech Talk: Cassandra Data Modeling](https://www.youtube.com/watch?v=tg6eIht-00M)
+  * [NoSQL Explained](https://www.youtube.com/watch?v=Q6gn2kuOTV0)
+  * [Big Data Architecture Patterns](https://www.youtube.com/watch?v=-N9i-YXoQBE)
+  * [Graph Databases Exposed](https://www.youtube.com/watch?v=A44CQ4P7oWw)
 
 * **Messaging**
   * [Queue It! What Job Queues Can Do for You!](https://www.infoq.com/presentations/job-queue-gearman-beanstalkd)
@@ -131,6 +144,11 @@
   
 * **Object Oriented Analysis and Design**
   * [Software Architecture & Design | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
+  * [Eric Evans — Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=dnUFEg68ESM)
+  * [Domain Driven Design](https://www.youtube.com/watch?v=BPAZwFNxgrg)
+  * [Domain-Driven Design](https://www.youtube.com/watch?v=RNUn2R7TptM)
+  * [How You Can Architect and Develop Enterprise Mission-Critical Applications with Domain-Driven Design]( https://www.youtube.com/watch?v=aieoAWXNjl0)
+  * [Architecting and Implementing Domain-Driven Design Patterns with Microsoft .NET](https://www.youtube.com/watch?v=DaQCGy_GIPE)
   * [SOLID Design Patterns in C#](https://www.youtube.com/playlist?list=PL8m4NUhTQU48oiGCSgCP1FiJEcg_xJzyQ)
   * [Object Oriented Design](https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
   * [Design Patterns Video Tutorial](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
@@ -187,7 +205,7 @@
   * [Simple Efficient Load Balancing Algorithms for Peer-to-Peer Systems](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/33339.pdf)
 
 
-* **Distributed Databases**
+* **Distributed Database/Large-Scale Storage**
   * [Dynamo: Amazon's Highly Available Key-value Datastore](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
   * [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf)
   * [Bigtable: A Distributed Storage System for Structured Data](http://research.google.com/archive/bigtable-osdi06.pdf)
@@ -232,6 +250,7 @@
 
 
 ## Web Links
+
 * **General**
   * https://www.hiredintech.com/
   * https://github.com/checkcheckzz/system-design-interview
@@ -245,8 +264,11 @@
   
 * **Engineering Blogs**
   * [Instagram Engineering](http://instagram-engineering.tumblr.com/)
-  
+
 * **Examples**
+
+Highscalability.com has wide collection of articles on Scalable architecture. Individual web links will be added below if they are not already highlighted in popular sites like highscalability.
+
   * [Trending at Instagram](http://instagram-engineering.tumblr.com/post/122961624217/trending-at-instagram)
   * [Search Architecture - Instagram](http://instagram-engineering.tumblr.com/post/124162066737/search-architecture)
   * [THE UBER ENGINEERING TECH STACK, PART I](https://eng.uber.com/tech-stack-part-one/) ([PART II](https://eng.uber.com/tech-stack-part-two/))
