@@ -265,9 +265,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
 * **Engineering Blogs**
   * [Instagram Engineering](http://instagram-engineering.tumblr.com/)
 
-* **Examples**
-
-Highscalability.com has wide collection of articles on Scalable architecture. Individual web links will be added below if they are not already highlighted in popular sites like highscalability.
+* **Examples** (Highscalability.com has wide collection of articles on Scalable architecture. Individual web links will be added below if they are not already highlighted in popular sites like highscalability.)
 
   * [Trending at Instagram](http://instagram-engineering.tumblr.com/post/122961624217/trending-at-instagram)
   * [Search Architecture - Instagram](http://instagram-engineering.tumblr.com/post/124162066737/search-architecture)
