@@ -27,6 +27,9 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [You Won't Believe How the Biggest Sites Build Scalable and Resilient Systems!](https://www.infoq.com/presentations/scalable-resilient-systems)
   * [Scalable Distributed Design](https://www.youtube.com/watch?v=E9GFA-YkzFY)
   * [Distributed Patterns you should know by Eric Redmond](https://www.youtube.com/watch?v=otWvr8VBRx0)
+  * [GOTO 2012 • Runaway Complexity in Big Data Systems...and a Plan to Stop it • Nathan Marz](https://www.youtube.com/watch?v=ucHjyb6jv08)
+  * [Seattle Conference on Scalability: Abstractions for handling large datasets](https://www.youtube.com/watch?v=oRwFpQKgRps)
+  * [High Performance Web Sites and YSlow](https://www.youtube.com/watch?v=BTHvs3V8DBA)
 
 * **Company/Product specific tech talks**
   * [Seattle Conference on Scalability: YouTube Scalability](https://www.youtube.com/watch?v=w5WVu624fY8)
@@ -112,12 +115,14 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Mantis: Netflix's Event Stream Processing System](https://www.infoq.com/presentations/mantis)
   * [High Throughput Stream Processing with ACID Guarantees](https://www.infoq.com/presentations/acid-stream-processing)
   * [Martin Kleppmann — Event Sourcing and Stream Processing at Scale](https://www.youtube.com/watch?v=avi-TZI9t2I)
+  * [ETE 2012 - Nathan Marz on Storm](https://www.youtube.com/watch?v=bdps8tE0gYo)
+  * [Cassandra NYC 2011: Nathan Marz - The Storm and Cassandra Realtime Computation Stack](https://www.youtube.com/watch?v=cF8a_FZwULI)
   
-
 * **API Design**
   * [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
   * [How to Design Great APIs - Parse Developer Day 2013](https://www.youtube.com/watch?v=qCdpTji8nxo)
   * [Google I/O 2010 - How Google builds APIs](https://www.youtube.com/watch?v=nyu5ZxGUfgs)
+  * [Designing a Beautiful REST+JSON API](https://www.youtube.com/watch?v=5WXYw4J4QOU)
   
 * **Web Services and SOA**
     * [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
