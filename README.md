@@ -30,6 +30,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [GOTO 2012 • Runaway Complexity in Big Data Systems...and a Plan to Stop it • Nathan Marz](https://www.youtube.com/watch?v=ucHjyb6jv08)
   * [Seattle Conference on Scalability: Abstractions for handling large datasets](https://www.youtube.com/watch?v=oRwFpQKgRps)
   * [High Performance Web Sites and YSlow](https://www.youtube.com/watch?v=BTHvs3V8DBA)
+  
 
 * **Company/Product specific tech talks**
   * [Seattle Conference on Scalability: YouTube Scalability](https://www.youtube.com/watch?v=w5WVu624fY8)
@@ -151,6 +152,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Joydeep Sen Sarma - Messaging architecture at Facebook](https://www.youtube.com/watch?v=5hUmdoMOrpo)
   * [Messaging at Scale at Instagram](https://www.youtube.com/watch?v=E708csv4XgY)
   * [Building a Distributed Data Ingestion System with RabbitMQ](https://www.infoq.com/presentations/data-replication-rabbitmq)
+  * [scaling web applications with message queues - Lenz Gschwendtner](https://www.youtube.com/watch?v=aOrGq9yb6og)
   
 * **Object Oriented Analysis and Design**
   * [Software Architecture & Design | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
@@ -172,6 +174,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Robert C Martin - Clean Architecture](https://www.youtube.com/watch?v=Nltqi7ODZTM)
   * [The S.O.L.I.D. Principles of OO and Agile Design - by Uncle Bob Martin](https://www.youtube.com/watch?v=t86v3N4OshQ)
   * [Solid Principles by Uncle Bob Martin](https://www.youtube.com/watch?v=oar-T2KovwE)
+  * [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
   
 * **Misc**
   * [Differential Synchronization](https://www.youtube.com/watch?v=S2Hp_1jqpY8)
@@ -181,6 +184,8 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Transactions across Datacenters](https://www.youtube.com/watch?v=srOgpXECblk)  ([Slides](http://snarfed.org/transactions_across_datacenters_io.html))
   * [Finding the Needle in the Haystack - or - Troubleshooting Distributed Systems](https://www.infoq.com/presentations/mondemand-troubleshoot-distributed-system)
   * [Finding the Needle in a Big Data Haystack](https://www.infoq.com/presentations/search-hadoop-data-hub)
+  * [Large scale image processing on the fly in 25ms with Google's first Network Engineer](https://www.youtube.com/watch?v=H_9cH1tiigs)
+  * [Bringing Push Notifications to the Mobile Web](https://www.youtube.com/watch?v=HbmcnjWFGbY)
   
 
 ## Papers
