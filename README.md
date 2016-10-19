@@ -118,7 +118,12 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
   * [How to Design Great APIs - Parse Developer Day 2013](https://www.youtube.com/watch?v=qCdpTji8nxo)
   * [Google I/O 2010 - How Google builds APIs](https://www.youtube.com/watch?v=nyu5ZxGUfgs)
+  
+* **Web Services and SOA**
+    * [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
   * [REST+JSON API Design - Best Practices for Developers](https://www.youtube.com/watch?v=hdSrT4yjS1g)
+  * [What is a Service Oriented Architecture?](https://www.youtube.com/watch?v=nRayJZmj2oY)
+  * [Webinar : Practical SOA for the Solution Architect](https://www.youtube.com/watch?v=1KXKppaOgtY)
 
 * **Caching**
   * [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo)
@@ -144,6 +149,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   
 * **Object Oriented Analysis and Design**
   * [Software Architecture & Design | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
+  * [OOSE: Software Dev Using UML and Java](https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
   * [Eric Evans — Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=dnUFEg68ESM)
   * [Domain Driven Design](https://www.youtube.com/watch?v=BPAZwFNxgrg)
   * [Domain-Driven Design](https://www.youtube.com/watch?v=RNUn2R7TptM)
