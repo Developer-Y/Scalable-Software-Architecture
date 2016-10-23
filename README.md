@@ -209,6 +209,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
 
 * **Search**
   * [The Anatomy of a Large-Scale Hypertextual Web Search Engine (Google Paper)](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/334.pdf)  (<a href="http://infolab.stanford.edu/~backrub/google.html" target="_blank">Weblink</a>)
+  * [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
   * [Web Search for a Planet: The Google Cluster Architecture](http://research.google.com/archive/googlecluster-ieee.pdf)
   * [Unicorn: A System for Searching the Social Graph](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf)  ([FB link](https://research.facebook.com/publications/unicorn-a-system-for-searching-the-social-graph/))
 
