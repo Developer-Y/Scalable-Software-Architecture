@@ -4,8 +4,8 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
 
 ##Tech Talks
 
-* **General Advice on System Design and Scalability**
-  * [Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4)
+#### General Advice on System Design and Scalability
+  * [Lecture - Scalability - Harvard Web Development, David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4)
   * [Building Software Systems At Google and Lessons Learned](https://www.youtube.com/watch?v=modXC5IWTJI)
   * [Scalable Internet Architectures - Theo Schlossnagle](https://www.youtube.com/watch?v=2WuT2rdLK5A)
   * [Seattle Conference on Scalability - Jeff Dean](https://www.youtube.com/watch?v=YFGFvCCFk0g)
@@ -32,7 +32,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [High Performance Web Sites and YSlow](https://www.youtube.com/watch?v=BTHvs3V8DBA)
   
 
-* **Company/Product specific tech talks**
+#### Company/Product specific tech talks
   * [Seattle Conference on Scalability: YouTube Scalability](https://www.youtube.com/watch?v=w5WVu624fY8)
   * [How to answer design question: How do you design a twitter?](https://www.youtube.com/watch?v=gX8S7b8UYl8)
   * [Operations at Twitter: Scaling Beyond 100 Million Users](https://www.youtube.com/watch?v=z8LU0Cj6BOU)
@@ -76,7 +76,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Serving user intent : Facebook style notifications using HBase and Event streams](https://www.youtube.com/watch?v=hIxXaH0CrVQ)
   * [Netflix's Distributed Computing Strategies: Optimistic Design for the Eventual Consistency Model](https://www.youtube.com/watch?v=6R1WhWkh6pg)
 
-* **Distributed Computing**
+#### Distributed Computing
   * [Intro to Hadoop and MapReduce (Udacity)](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkXJ6LAV96gH8yxIfGaN3H-)
   * [Introduction to Hadoop](https://www.youtube.com/watch?v=Pq3OyQO-l3E)
   * [MapReduce Flow Chart](https://www.youtube.com/watch?v=6OemZEJdMp8)
@@ -86,7 +86,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Cluster Computing and MapReduce Lecture 2](https://www.youtube.com/watch?v=-vD6PUdf3Js)
   * [Introducing Apache Hadoop: The Modern Data Operating System](https://www.youtube.com/watch?v=d2xeNpfzsYI)
 
-* **Distributed Database/Large-Scale Storage**
+#### Distributed Database/Large-Scale Storage
   * [Spanner: Google’s Globally-Distributed Database](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/corbett) ([Youtube link](https://www.youtube.com/watch?v=NthK17nbpYs))
   * [Spanner - multi-version, globally- distributed, and synchronously-replicated database](https://www.youtube.com/watch?v=Q7pcMn0_tac)
   * [BigTable: A Distributed Structured Storage System](https://www.youtube.com/watch?v=2cXBNQClehA) ([slides](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/bigtable-uw-2005.pdf)) 
@@ -100,7 +100,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Storage Systems at a Rapidly Scaling Startup with a Small Team - Data@Scale](https://www.youtube.com/watch?v=bLyv8zKa5DU)
   * [f4: Facebook's Warm BLOB Storage System](https://www.youtube.com/watch?v=imlP3lxwGgQ)
 
-* **Distributed graph processing**
+#### Distributed graph processing
   * [Giraph](https://www.youtube.com/watch?v=xyvs7NQdfZk)
   * [Apache Giraph Large Scale Graph Processing On Hadoop](https://www.youtube.com/watch?v=uXw2TKHsqvM)
   * [Processing Over a Billion Edges on Apache Giraph](https://www.youtube.com/watch?v=b5Qmz4zPj-M)
@@ -110,7 +110,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [GraphChi: Large-Scale Graph Computation on Just a PC](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/kyrola)
   * [PowerGraph: Distributed Graph-Parallel Computation on Natural Graphs](https://www.usenix.org/conference/osdi12/technical-sessions/presentation/gonzalez)
   
-* **Stream Processing**
+#### Stream Processing
   * [Heron: Real-time Stream Data Processing at Twitter](https://www.youtube.com/watch?v=pUaFOuGgmco)
   * [Samza in LinkedIn: How LinkedIn Processes Billions of Events Everyday in Real-time](https://www.infoq.com/presentations/samza-linkedin-2014)
   * [Mantis: Netflix's Event Stream Processing System](https://www.infoq.com/presentations/mantis)
@@ -119,26 +119,26 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [ETE 2012 - Nathan Marz on Storm](https://www.youtube.com/watch?v=bdps8tE0gYo)
   * [Cassandra NYC 2011: Nathan Marz - The Storm and Cassandra Realtime Computation Stack](https://www.youtube.com/watch?v=cF8a_FZwULI)
   
-* **API Design**
+#### API Design
   * [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
   * [How to Design Great APIs - Parse Developer Day 2013](https://www.youtube.com/watch?v=qCdpTji8nxo)
   * [Google I/O 2010 - How Google builds APIs](https://www.youtube.com/watch?v=nyu5ZxGUfgs)
   * [Designing a Beautiful REST+JSON API](https://www.youtube.com/watch?v=5WXYw4J4QOU)
   
-* **Web Services and SOA**
-    * [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
+#### Web Services and SOA
+  * [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
   * [REST+JSON API Design - Best Practices for Developers](https://www.youtube.com/watch?v=hdSrT4yjS1g)
   * [What is a Service Oriented Architecture?](https://www.youtube.com/watch?v=nRayJZmj2oY)
   * [Webinar : Practical SOA for the Solution Architect](https://www.youtube.com/watch?v=1KXKppaOgtY)
 
-* **Caching**
+#### Caching
   * [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo)
   * [Facebook and memcached - Tech Talk](https://www.youtube.com/watch?v=UH7wkvcf0ys)
   * [Scaling Memcache at Facebook](https://www.youtube.com/watch?v=6phA3IAcEJ8)
   * [How Netflix and reddit scale to handle massive demand](https://www.youtube.com/watch?v=zVqA7Ogutiw)
   * [An analysis of Facebook photo caching](https://www.youtube.com/watch?v=ENaQScyvOzY)
 
-* **NoSQL**
+#### NoSQL
   * [Introduction to NoSQL • Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
   * [NoSQL Distilled to an hour by Martin Fowler](https://www.youtube.com/watch?v=ASiU89Gl0F0)
   * [NoSQL Distilled • Pramod Sadalage](https://www.youtube.com/watch?v=l68zxgZS_wc)
@@ -147,14 +147,14 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Big Data Architecture Patterns](https://www.youtube.com/watch?v=-N9i-YXoQBE)
   * [Graph Databases Exposed](https://www.youtube.com/watch?v=A44CQ4P7oWw)
 
-* **Messaging**
+#### Messaging
   * [Queue It! What Job Queues Can Do for You!](https://www.infoq.com/presentations/job-queue-gearman-beanstalkd)
   * [Joydeep Sen Sarma - Messaging architecture at Facebook](https://www.youtube.com/watch?v=5hUmdoMOrpo)
   * [Messaging at Scale at Instagram](https://www.youtube.com/watch?v=E708csv4XgY)
   * [Building a Distributed Data Ingestion System with RabbitMQ](https://www.infoq.com/presentations/data-replication-rabbitmq)
   * [scaling web applications with message queues - Lenz Gschwendtner](https://www.youtube.com/watch?v=aOrGq9yb6og)
   
-* **Object Oriented Analysis and Design**
+#### Object Oriented Analysis and Design
   * [Software Architecture & Design | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
   * [OOSE: Software Dev Using UML and Java](https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
   * [Eric Evans — Tackling Complexity in the Heart of Software](https://www.youtube.com/watch?v=dnUFEg68ESM)
@@ -179,7 +179,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
   * [Unleash Your Domain - Greg Young](https://vimeo.com/19428577)
   
-* **Misc**
+#### Misc
   * [Differential Synchronization](https://www.youtube.com/watch?v=S2Hp_1jqpY8)
   * [Infrastructure at Scale: Apache Kafka, Twitter Storm & Elastic Search (ARC303) | AWS re:Invent 2013](https://www.youtube.com/watch?v=LpNbjXFPyZ0)
   * [Deepak Agarwal: Recommender Systems - The Art and Science of Matching Items to Users](https://www.youtube.com/watch?v=bRzOBGLCRbc)
@@ -194,7 +194,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
 
 ## Papers
 
-* **General**
+#### General
   * [papers-we-love](https://github.com/papers-we-love/papers-we-love)
   * [Google Research](http://research.google.com/pubs/papers.html)
   * [Facebook Research](https://research.facebook.com/publications/)
@@ -212,13 +212,13 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf)
   * [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
 
-* **Search**
+#### Search
   * [The Anatomy of a Large-Scale Hypertextual Web Search Engine (Google Paper)](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/334.pdf)  (<a href="http://infolab.stanford.edu/~backrub/google.html" target="_blank">Weblink</a>)
   * [The PageRank Citation Ranking: Bringing Order to the Web](http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf)
   * [Web Search for a Planet: The Google Cluster Architecture](http://research.google.com/archive/googlecluster-ieee.pdf)
   * [Unicorn: A System for Searching the Social Graph](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf)  ([FB link](https://research.facebook.com/publications/unicorn-a-system-for-searching-the-social-graph/))
 
-* **P2P**
+#### P2P
   * [Chord: A scalable peer-to-peer lookup service for Internet applications](https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf)
   * [Building peer-to-peer systems with Chord, a distributed lookup service](https://pdos.csail.mit.edu/papers/chord:hotos01/hotos8.pdf)
   * [Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web](https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf)  ([CS 168: Consistent Hashing](http://web.stanford.edu/class/cs168/l/l1.pdf)  | [Algorithmic Nuggets in Content Delivery](http://www.sigcomm.org/sites/default/files/ccr/papers/2015/July/0000000-0000009.pdf))
@@ -226,13 +226,13 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Pastry: Scalable, decentralized object location and routing for large-scale peer-to-peer systems](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/pastry-scalable-decentralized-object-location-and-routing-for-large-scale-peer-to-peer-systems.pdf)
   * [Simple Efficient Load Balancing Algorithms for Peer-to-Peer Systems](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/33339.pdf)
 
-* **Distributed Computing**
+#### Distributed Computing
   * [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce-osdi04.pdf)
   * [Resident Distributed Datasets: a Fault-Tolerant Abstraction for In-Memory Cluster Computing (Zahari et al.)](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
   * [Kafka: a Distributed Messaging System for Log Processing](http://research.microsoft.com/en-us/um/people/srikanth/netdb11/netdb11papers/netdb11-final12.pdf)
 
 
-* **Distributed Database/Large-Scale Storage**
+#### Distributed Database/Large-Scale Storage
   * [Dynamo: Amazon's Highly Available Key-value Datastore](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
   * [The Google File System](http://research.google.com/archive/gfs-sosp2003.pdf)
   * [Bigtable: A Distributed Storage System for Structured Data](http://research.google.com/archive/bigtable-osdi06.pdf)
@@ -245,7 +245,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 
 
-* **Consistency**
+#### Consistency
   * [Consistency Tradeoffs in Modern Distributed Database System Design](http://cs-www.cs.yale.edu/homes/dna/papers/abadi-pacelc.pdf)
   * [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
   * [Paxos Made Simple](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/paxos-made-simple.pdf)
@@ -253,14 +253,14 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [In Search of an Understandable Consensus Algorithm](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf)
 
 
-* **Distributed Graph processing**
+#### Distributed Graph processing
   * [SQLGraph: An Efficient Relational-Based Property Graph Store](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43287.pdf)
   * [One Trillion Edges: Graph Processing at FacebookScale](http://www.vldb.org/pvldb/vol8/p1804-ching.pdf)
   * [Pregel: A System for Large-Scale Graph Processing](http://kowshik.github.io/JPregel/pregel_paper.pdf)
   * [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/36632.pdf)
 
 
-* **Company/Product specific**
+#### Company/Product specific
   * [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
   * [Realtime Data Processing at Facebook](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xat1/t39.2365-6/13331599_975087972607457_1796386216_n/Realtime_Data_Processing_at_Facebook.pdf)
   * [Holistic Configuration Management at Facebook](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xta1/t39.2365-6/12057212_1623087361291843_1316956191_n/Holistic_Configuration_Management_at_Facebook.pdf)
@@ -268,7 +268,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Scaling Big Data Mining Infrastructure: The Twitter Experience](http://www.kdd.org/sites/default/files/issues/14-2-2012-12/V14-02-02-Lin.pdf)
   * [Large-scale cluster management at Google with Borg](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
 
-* **Misc**
+#### Misc
   * [Differential Synchronization](http://research.google.com/pubs/archive/35605.pdf)
   * <a href="https://www.cis.upenn.edu/~bcpierce/courses/dd/papers/lbfs.pdf" target="_blank">A Low-bandwidth Network File System</a>
   * [Maglev: A Fast and Reliable Software Network Load Balancer](http://research.google.com/pubs/archive/44824.pdf)
@@ -284,7 +284,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
 
 ## Web Links
 
-* **General**
+#### General
   * https://www.hiredintech.com/
   * https://github.com/checkcheckzz/system-design-interview
   * https://github.com/shashank88/system_design
@@ -295,10 +295,10 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Scalable Web Architecture and Distributed Systems](http://aosabook.org/en/distsys.html)
   * [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
   
-* **Engineering Blogs**
-  * [Instagram Engineering](http://instagram-engineering.tumblr.com/)
 
-* **Examples** (Highscalability.com has wide collection of articles on Scalable architecture. Individual web links will be added below if they are not already highlighted in popular sites like highscalability.)
+#### Examples 
+
+Highscalability.com has wide collection of articles on Scalable architecture. Individual web links will be added below if they are not already highlighted in popular sites like highscalability.
 
   * [Trending at Instagram](http://instagram-engineering.tumblr.com/post/122961624217/trending-at-instagram)
   * [Search Architecture - Instagram](http://instagram-engineering.tumblr.com/post/124162066737/search-architecture)
@@ -318,3 +318,5 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * Patterns of Enterprise Application Architecture
   * Domain Driven Design by Eric Evans
   * Agile Software Development, Principles, Patterns and Practices by Robert Martin
+
+--------------------------------------------------
