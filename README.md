@@ -161,6 +161,8 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Domain Driven Design](https://www.youtube.com/watch?v=BPAZwFNxgrg)
   * [Domain-Driven Design](https://www.youtube.com/watch?v=RNUn2R7TptM)
   * [How You Can Architect and Develop Enterprise Mission-Critical Applications with Domain-Driven Design]( https://www.youtube.com/watch?v=aieoAWXNjl0)
+  * [DDD: putting the model to work](https://www.infoq.com/presentations/model-to-work-evans)
+  * [Eric Evans on DDD: Strategic Design](https://www.infoq.com/presentations/strategic-design-evans)
   * [Architecting and Implementing Domain-Driven Design Patterns with Microsoft .NET](https://www.youtube.com/watch?v=DaQCGy_GIPE)
   * [SOLID Design Patterns in C#](https://www.youtube.com/playlist?list=PL8m4NUhTQU48oiGCSgCP1FiJEcg_xJzyQ)
   * [Object Oriented Design](https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)
@@ -175,6 +177,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [The S.O.L.I.D. Principles of OO and Agile Design - by Uncle Bob Martin](https://www.youtube.com/watch?v=t86v3N4OshQ)
   * [Solid Principles by Uncle Bob Martin](https://www.youtube.com/watch?v=oar-T2KovwE)
   * [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
+  * [Unleash Your Domain - Greg Young](https://vimeo.com/19428577)
   
 * **Misc**
   * [Differential Synchronization](https://www.youtube.com/watch?v=S2Hp_1jqpY8)
@@ -187,6 +190,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Large scale image processing on the fly in 25ms with Google's first Network Engineer](https://www.youtube.com/watch?v=H_9cH1tiigs)
   * [Bringing Push Notifications to the Mobile Web](https://www.youtube.com/watch?v=HbmcnjWFGbY)
   
+---------------------------------------------------------------
 
 ## Papers
 
@@ -202,10 +206,11 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Time, Clocks, and the Ordering of Events in a Distributed System](http://research.microsoft.com/en-us/um/people/lamport/pubs/time-clocks.pdf)
   * [Above the Clouds: A Berkeley View of Cloud Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf)
   * [The Byzantine Generals Problem](http://www.andrew.cmu.edu/course/15-749/READINGS/required/resilience/lamport82.pdf)
-  * [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce-osdi04.pdf)
   * [How to Design a Good API and Why it Matters - Google Research](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/32713.pdf)
   * <a href="http://www.umiacs.umd.edu/~jimmylin/publications/Leibert_etal_SoCC2011.pdf" target="_blank">Twitter - Automatic Management of Partitioned, Replicated Search Services</a>
   * [High-Availability at Massive Scale: Building Google’s Data Infrastructure for Ads](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44686.pdf)
+  * [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf)
+  * [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf)
 
 * **Search**
   * [The Anatomy of a Large-Scale Hypertextual Web Search Engine (Google Paper)](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/334.pdf)  (<a href="http://infolab.stanford.edu/~backrub/google.html" target="_blank">Weblink</a>)
@@ -220,6 +225,11 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * <a href="http://www.cs.columbia.edu/~asherman/papers/cachePaper.pdf" target="_blank">Web Caching with Consistent Hashing</a> ([Web link](http://www8.org/w8-papers/2a-webserver/caching/paper2.html))
   * [Pastry: Scalable, decentralized object location and routing for large-scale peer-to-peer systems](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/pastry-scalable-decentralized-object-location-and-routing-for-large-scale-peer-to-peer-systems.pdf)
   * [Simple Efficient Load Balancing Algorithms for Peer-to-Peer Systems](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/33339.pdf)
+
+* **Distributed Computing**
+  * [MapReduce: Simplified Data Processing on Large Clusters](http://research.google.com/archive/mapreduce-osdi04.pdf)
+  * [Resident Distributed Datasets: a Fault-Tolerant Abstraction for In-Memory Cluster Computing (Zahari et al.)](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
+  * [Kafka: a Distributed Messaging System for Log Processing](http://research.microsoft.com/en-us/um/people/srikanth/netdb11/netdb11papers/netdb11-final12.pdf)
 
 
 * **Distributed Database/Large-Scale Storage**
@@ -240,19 +250,23 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Paxos Made Live - An Engineering Perspective](http://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
   * [Paxos Made Simple](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/paxos-made-simple.pdf)
   * [Existential Consistency: Measuring and Understanding Consistency at Facebook](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xpt1/t39.2365-6/12057015_1010569855670644_348748003_n/Existential_Consistency_Measuring_and_Understanding_Consistency_at_Facebook.pdf)
+  * [In Search of an Understandable Consensus Algorithm](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf)
 
 
 * **Distributed Graph processing**
   * [SQLGraph: An Efficient Relational-Based Property Graph Store](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43287.pdf)
   * [One Trillion Edges: Graph Processing at FacebookScale](http://www.vldb.org/pvldb/vol8/p1804-ching.pdf)
   * [Pregel: A System for Large-Scale Graph Processing](http://kowshik.github.io/JPregel/pregel_paper.pdf)
+  * [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/36632.pdf)
 
 
 * **Company/Product specific**
   * [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf)
   * [Realtime Data Processing at Facebook](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xat1/t39.2365-6/13331599_975087972607457_1796386216_n/Realtime_Data_Processing_at_Facebook.pdf)
   * [Holistic Configuration Management at Facebook](https://fbcdn-dragon-a.akamaihd.net/hphotos-ak-xta1/t39.2365-6/12057212_1623087361291843_1316956191_n/Holistic_Configuration_Management_at_Facebook.pdf)
-
+  * [The Unified Logging Infrastructure for Data Analytics at Twitter](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf)
+  * [Scaling Big Data Mining Infrastructure: The Twitter Experience](http://www.kdd.org/sites/default/files/issues/14-2-2012-12/V14-02-02-Lin.pdf)
+  * [Large-scale cluster management at Google with Borg](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
 
 * **Misc**
   * [Differential Synchronization](http://research.google.com/pubs/archive/35605.pdf)
@@ -261,9 +275,11 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [The Chubby Lock Service for Loosely-Coupled Distributed Systems](http://research.google.com/archive/chubby-osdi06.pdf)
   * [Everything You Always Wanted to Know About Synchronization but Were Afraid to Ask](http://sigops.org/sosp/sosp13/papers/p33-david.pdf)
   * [Transactional storage for geo-replicated systems](https://github.com/papers-we-love/papers-we-love/blob/master/datastores/transactional-storage-for-geo-replicated-systems.pdf)
-  * [Kafka: a Distributed Messaging System for Log Processing](http://research.microsoft.com/en-us/um/people/srikanth/netdb11/netdb11papers/netdb11-final12.pdf)
-  * [Large-scale cluster management at Google with Borg](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
+  * [Highly Available Transactions: Virtues and Limitations](http://www.bailis.org/papers/hat-vldb2014.pdf)
+  * [The Log-Structured Merge-Tree](http://www.cs.umb.edu/~poneil/lsmtree.pdf)
 
+
+--------------------------------------------------------
 
 
 ## Web Links
@@ -291,7 +307,8 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Personalized Group Recommendations on Flickr](http://code.flickr.net/2016/09/30/personalized-group-recommendations-on-flickr/)
   * [Building The LinkedIn Knowledge Graph](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph)
   * [Personal recommendations for the Foursquare homescreen](http://engineering.foursquare.com/2015/08/06/personal-recommendations-for-the-foursquare-homescreen/)
-  
+
+--------------------------------------------------
   
 ## Books
   * [Microsoft Application Architecture Guide, 2nd Edition (Online)](https://msdn.microsoft.com/en-us/library/ff650706.aspx)
