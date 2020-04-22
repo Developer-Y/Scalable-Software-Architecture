@@ -2,7 +2,7 @@
 
 Collection of tech talks, papers and web links on Distributed Systems, Scalability and System Design.
 
-##Tech Talks
+## Tech Talks
 
 #### General Advice on System Design and Scalability
   * [Lecture - Scalability - Harvard Web Development, David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4)
