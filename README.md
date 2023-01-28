@@ -54,6 +54,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [Architecture at Scale at ESPN](https://www.infoq.com/presentations/Architecture-Scale-ESPN)
   * [Building Highly-resilient Systems at Pinterest](https://www.infoq.com/presentations/pinterest-resilient-systems)
   * [Scaling Uber](https://www.infoq.com/presentations/uber-scalability-arch)
+  * [How Zoom works](http://highscalability.com/blog/2020/5/14/a-short-on-how-zoom-works.html)
   * [Scaling Engineering Culture at Twitter](https://www.youtube.com/watch?v=H9wTuT6yQlc)
   * [Keynote - Systems at Facebook Scale](https://www.youtube.com/watch?v=dlixGkelP9U)
   * [Scaling YouTube's Backend: The Vitess Trade-offs](https://www.youtube.com/watch?v=5yDO-tmIoXY)
