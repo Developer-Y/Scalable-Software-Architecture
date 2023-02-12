@@ -294,7 +294,7 @@ Collection of tech talks, papers and web links on Distributed Systems, Scalabili
   * [ Scalability for dummies - Part 1](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)  ([Part 2](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database) | [Part 3](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache) | [Part 4](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism))
   * [Scalable Web Architecture and Distributed Systems](http://aosabook.org/en/distsys.html)
   * [Introduction to Architecting Systems for Scale](http://lethain.com/introduction-to-architecting-systems-for-scale/)
-  
+  * [Software Architect Roadmap](https://roadmap.sh/software-architect)  
 
 #### Examples 
 
